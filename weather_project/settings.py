@@ -27,7 +27,7 @@ SECRET_KEY = config("SECRET_KEY")
 DEBUG = True
 
 ALLOWED_HOSTS = ["*"]
-CSRF_TRUSTED_ORIGINS = ['https://weather-appp.up.railway.app/']
+CSRF_TRUSTED_ORIGINS = ['https://weather-appp.up.railway.app']
 
 
 # Application definition
