@@ -1,3 +1,2 @@
 venv/
-weather_project/db.sqlite3
 weather_project/.env
