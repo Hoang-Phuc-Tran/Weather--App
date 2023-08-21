@@ -2,6 +2,8 @@
 
 https://github.com/Hoang-Phuc-Tran/Weather--App/assets/120700092/970db402-2d8c-4bb1-9d62-9d1369d92174
 
+<h1>https://weather-appp.up.railway.app/</h1>
+
 Welcome to the Weather App! This Django-powered web application provides you with real-time weather information for locations around the world. Stay informed about the weather conditions and forecasts with this simple and intuitive app.
 
 ## Features
